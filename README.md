@@ -44,7 +44,7 @@
   <a href="https://wa.me/[TU_NÚMERO]">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
-  <a href="mailto:50488198573">
+  <a href="mailto:https://Wa.me/50488198573">
     <img src="https://img.shields.io/badge/Email-Enviame%20un%20correo-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>  

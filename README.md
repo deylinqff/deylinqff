@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://qu.ax/Snwpw.mp4" width="400px">
+  <img src="https://github.com/deylinqff" width="400px">
 </h1>
 
 

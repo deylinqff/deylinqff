@@ -1,5 +1,5 @@
 <a href="https://github.com/deylinqff">
-  <img src="https://github.com/deylinqff.png" width="130" height="130" alt="Deylin">
+  <img src="https://github.com/deylinqff.png" width="150" height="150" alt="Deylin">
 </a>  
 
 

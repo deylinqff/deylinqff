@@ -22,7 +22,6 @@
 
 ## 🚀 Proyectos Destacados  
 - 🤖 **Kirito-Bot** – Un bot de WhatsApp con múltiples funciones.  
-- 🌐 **Desarrollo de APIs** para integrar plataformas como YouTube y Spotify.  
 - ⚙️ **Optimización de bots en la nube** con servidores gratuitos.  
 
 ---

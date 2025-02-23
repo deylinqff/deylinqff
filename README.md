@@ -16,8 +16,7 @@
 
 ## 🚀 **Proyectos Destacados**  
 🔹 **Kirito-Bot** – Bot de WhatsApp con múltiples funciones avanzadas.  
-🔹 **Automatización con APIs** – Integraciones con YouTube, Spotify y más.  
-🔹 **Optimización en la nube** – Servidores gratuitos para bots y procesos.  
+🔹 **Optimización en la nube** – Servidores para bots y procesos.  
 🔹 **Desarrollo de sistemas personalizados** con inteligencia artificial.  
 
 ---
@@ -45,7 +44,7 @@
   <a href="https://wa.me/[TU_NÚMERO]">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
-  <a href="mailto:[TU_CORREO]">
+  <a href="mailto:50488198573">
     <img src="https://img.shields.io/badge/Email-Enviame%20un%20correo-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>  

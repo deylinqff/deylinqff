@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://github.com/deylinqff" width="400px">
-</h1>
+<a href="https://github.com/deylinqff">
+  <img src="https://github.com/deylinqff.png" width="130" height="130" alt="Deylin">
+</a>  
 
 
 

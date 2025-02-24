@@ -36,7 +36,7 @@
 ---
 
 ## 📚 **Actualmente Aprendiendo**  
-🔹 Integración de **IA en bots** para mejorar automatizaciones.  
+> 🔹 Integración de **IA en bots** para mejorar automatizaciones.  
 🔹 **Mejor optimización de APIs** y rendimiento en la nube.  
 🔹 Implementación de **nuevas estrategias en servidores**.  
 

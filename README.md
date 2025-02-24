@@ -2,13 +2,13 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+¡Hola,+soy+Deylin!+👾" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+¡Hola,+soy+Deylin!+👾" alt="Typing SVG">
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Bots;Apasionado+por+la+tecnología;Amante+del+Anime;Explorando+nuevas+APIs;Automatizando+procesos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Bots;Apasionado+por+la+tecnología;Amante+del+Anime;Explorando+nuevas+APIs;Automatizando+procesos" alt="Typing SVG" />
 </p>  
 
 ---
@@ -21,8 +21,7 @@
 ---
 
 ## 🚀 **Proyectos Destacados**  
-🔹 **Kirito-Bot** – Bot de WhatsApp con múltiples funciones avanzadas.  
-🔹 **Automatización con APIs** – Integraciones con YouTube, Spotify y más.  
+> 🔹 **Kirito-Bot** – Bot de WhatsApp con múltiples funciones avanzadas.  
 🔹 **Optimización en la nube** – Servidores gratuitos para bots y procesos.  
 🔹 **Desarrollo de sistemas personalizados** con inteligencia artificial.  
 
